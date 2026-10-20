@@ -1,6 +1,6 @@
 # King James Version (1611) — JSON Dataset
 
-A public-domain, machine-readable dataset of the **1611 King James Version (KJV) Bible**, including the Old Testament, New Testament, and Apocrypha.
+A public domain, machine readable dataset of the **1611 King James Version (KJV) Bible**, including the Old Testament, New Testament, and Apocrypha.
 
 The text is organized by book, chapter, and verse in JSON format. It is provided by **Saorsa Industries** for anyone to use, adapt, analyze, or incorporate into their own projects, for any purpose.
 
